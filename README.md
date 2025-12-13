@@ -1,4 +1,4 @@
-# 🩰 Samilly Melo | Bailarina & Professora de Ballet Clássico, Jazz e Sapateado
+# 🩰 Samilly Melo | Professora de Ballet Clássico, Jazz e Sapateado
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/samiillymelo/samiillymelo/main/favicon.ico" width="100" /> 
