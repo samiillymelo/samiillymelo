@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Salvador-Bahia-a855f7?style=for-the-badge" />
 </div>
 
+
+  Acesse: <a href="https://samiillymelo.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfólio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+
 ### 🎨 Sobre Mim
 Bailarina apaixonada pela dança com formação pela prestigiada **Royal Academy of Dance**. Com mais de uma década de experiência no **Ballet Tchu & Cia**, dedico-me a unir a arte clássica à inovação tecnológica no ensino.
 
