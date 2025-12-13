@@ -11,7 +11,7 @@
 ### 🎨 Sobre Mim
 Bailarina apaixonada pela dança com formação pela prestigiada **Royal Academy of Dance**. Com mais de uma década de experiência no **Ballet Tchu & Cia**, dedico-me a unir a arte clássica à inovação tecnológica no ensino.
 
-* ✨ **Especialista em:** Ballet Clássico e Sapateado.
+* ✨ **Especialista em:** Ballet Clássico, Jazz e Sapateado.
 * 🎓 **Foco:** Formação de talentos, do Baby Class ao Ballet Adulto.
 * 🚀 **Diferencial:** Gestão completa de academia e produção de espetáculos.
 
