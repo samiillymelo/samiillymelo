@@ -16,7 +16,7 @@ Bailarina apaixonada pela dança com formação pela prestigiada **Royal Academy
 * 🚀 **Diferencial:** Gestão completa de academia e produção de espetáculos.
 
 ### 🛠️ Habilidades & Tecnologias
-- **Hard Skills:** Direção Artística, Coreografia e Gestão de Escola de Dança.
+- **Hard Skills:** Direção Artística, Coreografia, Professora de Ballet, Jazz e Sapateado e Gestão de Escola de Dança.
 
 
 ### 📫 Conecte-se comigo
