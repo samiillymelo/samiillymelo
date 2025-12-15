@@ -1,7 +1,7 @@
 # 🩰 Samilly Melo | Professora de Ballet Clássico, Jazz e Sapateado
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samiillymelo/samiillymelo/main/favicon.ico" width="100" /> 
+  <img src="" width="100" /> 
   
   <br>
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-7e22ce?style=for-the-badge" />
