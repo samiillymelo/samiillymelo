@@ -7,12 +7,14 @@
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-7e22ce?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Salvador-Bahia-a855f7?style=for-the-badge" />
 </div>
-
+  <br>
+  <br>
 
   Acesse: <a href="https://samiillymelo.github.io/portifolio/">
     <img src="https://img.shields.io/badge/Portfólio-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-
+  <br>
+  <br>
 
 ### 🎨 Sobre Mim
 Bailarina apaixonada pela dança com formação pela prestigiada **Royal Academy of Dance**. Com mais de uma década de experiência no **Ballet Tchu & Cia**, dedico-me a unir a arte clássica à inovação tecnológica no ensino.
